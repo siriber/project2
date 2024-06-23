@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+}
+.container {
+    margin: 5rem auto;
+    width: 600px;
+    height: 400px;
+    background-color: azure;
+    padding: 2.5rem;
+}
+
+.container h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.container p {
+    text-align: justify;
+}
